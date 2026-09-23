@@ -1,0 +1,7 @@
+{
+  "name": "Digital Product Delivery Telegram Bot",
+  "description": "Enterprise-grade digital product delivery, automated account provisioning, 2FA fulfillment, and sales tracking Telegram bot built with aiogram 3.x and async SQLAlchemy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
